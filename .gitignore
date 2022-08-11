@@ -1,0 +1,7 @@
+.idea/
+.vs/
+_ReSharper.Caches/
+packages/
+**/bin/
+**/obj/
+/readme.md.bak
